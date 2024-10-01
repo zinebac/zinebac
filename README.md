@@ -15,7 +15,7 @@ I'm currently a full-stack intern, honing my skills in both frontend and backend
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
-- **JavaScript** | **TypeScript** | **Python**
+- **JavaScript** | **TypeScript** | **Python** | **C++** | **C** 
 
 #### **Frameworks & Libraries**
 - **Frontend**: React, Next.js, Tailwind CSS
