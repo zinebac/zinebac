@@ -6,9 +6,9 @@
 I'm currently a full-stack intern, honing my skills in both frontend and backend technologies. My coding journey began at the 1337 coding school, and since then, I've been driven by a passion for problem-solving and innovation. I thrive in tackling complex challenges and developing cutting-edge solutions across various tech stacks.
 
 - 🌱 I’m continuously learning and improving my skills.
-- ⚙️ I specialize in **React**, **Node.js**, **NestJS**, and **TypeScript**.
-- 👩‍💻 Currently, I'm diving deeper into **Nextjs** and cloud services like **AWS** and **Azure**.
-- 💡 My philosophy: _"Amor Fati."_ 
+- ⚙️ I specialize in **React**, **NextJs**, **Python**, and **Javascript**.
+- 👩‍💻 Currently, I'm diving deeper into **artificial intelligence and ML**, and cloud services like **AWS** and **Azure**.
+- 💡 My philosophy: _"Building myself, softwares and the future"_ 
 
 ---
 
@@ -19,13 +19,13 @@ I'm currently a full-stack intern, honing my skills in both frontend and backend
 
 #### **Frameworks & Libraries**
 - **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, NestJS, Express.js
+- **Backend**: Node.js, NestJS, Express.js, Flask
 
 #### **Databases**
-- PostgreSQL, MySQL, MariaDB
+- PostgreSQL, MySQL
 
 #### **Tools & Platforms**
-- Docker, Git, Postman, Nginx, Figma
+- Docker, Git, Postman, Nginx, Pgadmin, k3s, valgrant
 <!--
 ---
 
@@ -51,8 +51,6 @@ More projects can be found on my [GitHub](https://github.com/loldemorttt).
 When I'm not coding, I enjoy:
 - 🎮 **Gaming**: Competing in strategy and puzzle games.
 - 💻 **Exploring New Technologies**: Staying up-to-date with the latest tech trends and experimenting with open-source tools.
-- 🛠️ **Contributing to Open Source**: I love giving back to the community by contributing to open-source projects whenever possible.
-
 ---
 
 ### 🤝 Let's Connect
