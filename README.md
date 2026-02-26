@@ -1,88 +1,82 @@
----
-<h1 align="center">Hello, I'm Zineb! 👋</h1>
+<h1 align="center">Hello, I'm Zineb 👋</h1>
 
 ### 🚀 About Me
 
-I'm currently a full-stack intern, honing my skills in both frontend and backend technologies. My coding journey began at the 1337 coding school, and since then, I've been driven by a passion for problem-solving and innovation. I thrive in tackling complex challenges and developing cutting-edge solutions across various tech stacks.
+I'm a **Full Stack Software Engineer** with hands-on experience building and deploying **production-grade web and mobile applications**, including **SaaS platforms**. My background spans backend systems, frontend interfaces, and back-office tools, with a strong focus on clean architecture and maintainable code.
 
-- 🌱 I’m continuously learning and improving my skills.
-- ⚙️ I specialize in **React**, **NextJs**, **Python**, and **Javascript**.
-- 👩‍💻 Currently, I'm diving deeper into **artificial intelligence and ML**, and cloud services like **AWS** and **Azure**.
-- 💡 My philosophy: _"Building myself, softwares and the future"_ 
+I started my journey at **1337 coding school**, and since then I’ve worked on real-world products across sustainability, mobility, and SaaS domains. I enjoy designing systems end to end — from APIs and databases to user-facing dashboards.
+
+- 🌱 Continuously learning and improving as an engineer  
+- ⚙️ Strong experience in **Spring Boot**, **Next.js**, **Flutter**, and **JavaScript/TypeScript**  
+- ☁️ Growing knowledge in **cloud infrastructure**, **DevOps**, and distributed systems  
+- 💡 Philosophy: _“Build systems that scale, and grow with them.”_
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
-- **JavaScript** | **TypeScript** | **Python** | **C++** | **C** 
+- **Java** | **JavaScript** | **TypeScript** | **Python** | **C++** | **C**
 
-#### **Frameworks & Libraries**
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, NestJS, Express.js, Flask
+#### **Frontend**
+- React, Next.js, Tailwind CSS, Three.js
+
+#### **Backend**
+- Spring Boot, Node.js, NestJS, Flask  
+- REST APIs, WebSockets, Authentication & Authorization
 
 #### **Databases**
-- PostgreSQL, MySQL
+- PostgreSQL, MySQL, MongoDB
 
-#### **Tools & Platforms**
-- Docker, Git, Postman, Nginx, Pgadmin, k3s, valgrant
-<!--
----
-
-### 🔥 Projects
-
-- **[Project Name](#)**: A brief description of this project, the tech stack used, and its impact.
-- **[Another Project](#)**: Another project with highlights of its features and technologies used.
-  
-More projects can be found on my [GitHub](https://github.com/loldemorttt).
+#### **DevOps & Infrastructure**
+- Docker, Docker Compose, Git/GitHub  
+- Vercel, Nginx, Linux, CI/CD  
+- PostgreSQL administration (pgAdmin)
 
 ---
--->
-## 📚 Learning Goals
-- **Next.js**: Building scalable, server-rendered applications using React.
-- **AI and Machine Learning**: Exploring artificial intelligence concepts and integrating them into web apps.
-- **GraphQL**: Expanding my knowledge of advanced data fetching methods.
-- **Cloud Computing**: Exploring and integrating cloud services like **AWS** and **Azure** into scalable solutions.
-  
+
+## 📚 Current Focus
+
+- **Backend architecture**: scalable APIs, security, and domain-driven design  
+- **SaaS platforms**: back-office systems, subscriptions, and permissions  
+- **Cloud & DevOps**: containers, deployment pipelines, and infrastructure fundamentals  
+- **AI & Data-driven systems**: applying AI where it adds real value
+
 ---
 
 ### 🎮 Hobbies & Interests
 
-When I'm not coding, I enjoy:
-- 🎮 **Gaming**: Competing in strategy and puzzle games.
-- 💻 **Exploring New Technologies**: Staying up-to-date with the latest tech trends and experimenting with open-source tools.
+When I’m not coding:
+- 🎮 **Gaming** — strategy and puzzle games  
+- 💻 **Exploring new technologies** and reading technical deep dives  
+- 🌍 Interested in **sustainability tech** and impact-driven software
+
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
 
-Feel free to reach out via:
 <p align="left">
-<a href="https://www.linkedin.com/in/zinebac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/zinebac12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/zinebac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zinebac" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/zinebac12" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/u/zinebac" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- Add more as per your stack -->
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<!--
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loldemorttt&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loldemorttt&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loldemorttt&" alt="GitHub Streak" /></p>
--->
----
